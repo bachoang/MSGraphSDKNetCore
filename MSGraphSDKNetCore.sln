@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSGraphSDKNetCore", "MSGraphSDKNetCore\MSGraphSDKNetCore.csproj", "{0E41B933-6C85-4CC0-9E07-F92632C88987}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E41B933-6C85-4CC0-9E07-F92632C88987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E41B933-6C85-4CC0-9E07-F92632C88987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E41B933-6C85-4CC0-9E07-F92632C88987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E41B933-6C85-4CC0-9E07-F92632C88987}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B58CEC1E-EDEB-41BC-ABD6-73D1FEC82F49}
+	EndGlobalSection
+EndGlobal
